@@ -1,4 +1,4 @@
-FROM runpod/base:0.6.0-cuda12.1
+FROM runpod/base:0.6.0-cuda11.8
 
 WORKDIR /workspace
 
